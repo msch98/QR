@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+#überschrift{
+    font-size: 40px;
+    color: green;
+    text-align: center;
+    font-style: arial;
+}
+
+body {
+    background-color: rgb(66, 66, 66);
+}
